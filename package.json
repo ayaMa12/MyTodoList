@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/ayaMa12/MyTodoList",
+  "homepage": "/MyTodoList",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
