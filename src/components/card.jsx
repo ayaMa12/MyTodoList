@@ -38,6 +38,7 @@ export default function Mycard() {
     if (savedTasks) {
       setData(JSON.parse(savedTasks));
     }
+    // el
   }, []);
 
   const handleCloseDelete = () => {
