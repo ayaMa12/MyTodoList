@@ -38,7 +38,7 @@ export default function Mycard() {
     if (savedTasks) {
       setData(JSON.parse(savedTasks));
     }
-    // el
+   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleCloseDelete = () => {
