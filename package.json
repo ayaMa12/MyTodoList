@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "athor":"Aya Mahmoud",
+  "author":"Aya Mahmoud",
   "homepage": "https://github.com/ayaMa12/MyTodoList.git",
   "private": true,
   "dependencies": {
